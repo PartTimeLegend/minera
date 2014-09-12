@@ -1,0 +1,11 @@
+language: php
+php:
+  - 5.5
+before_script:
+  - sudo apt-get install -y lighttpd php5-cgi
+  - sudo lighty-enable-mod fastcgi
+  - sudo lighty-enable-mod fastcgi-php
+  - sudo service lighttpd force-reload
+  - sudo apt-get install -y redis-server git screen php5-cli php5-curl
+install:
+  - ./install_minera.sh
