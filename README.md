@@ -1,6 +1,8 @@
 Minera
 ==============
 
+[![Build Status](https://travis-ci.org/PartTimeLegend/minera.svg)](https://travis-ci.org/PartTimeLegend/minera)
+
 **[Official Website](http://getminera.com/)**
 _______
 
