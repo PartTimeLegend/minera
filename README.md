@@ -260,6 +260,7 @@ Click for hi-res images.
 
 Lockscreen:
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/772f72c549a342eea5e3242c984f4b3e)](https://www.codacy.com/app/PartTimeLegend/minera?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/minera&utm_campaign=badger)
 [![Dashboard](https://github.com/michelem09/minera/raw/master/assets/img/screen_minera_lock.png)](https://github.com/michelem09/minera/raw/master/assets/img/screen_minera_lock_hi.png)
 
 Dashboard:
